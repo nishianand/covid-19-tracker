@@ -7,6 +7,7 @@ This COVID-19 tracking website shows the real-time data in the form of charts. A
 Features of the website: Easy to use, Attractive UI, Charts speaks more than text, real-time data, and last but not least, it is a responsive website for both desktop & mobile view.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![ss1](https://user-images.githubusercontent.com/47775251/88920613-c32c4680-d28a-11ea-9805-a8ee9d112b1c.png)
 
 ## Available Scripts
 
