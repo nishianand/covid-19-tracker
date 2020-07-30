@@ -1,3 +1,11 @@
+# COVID-19 Tracker
+
+This is a full covid-19 tracker which shows the infected people, recovered people and total number of  deaths , using React js , Chart.js, Material UI , and the Api (https://covid19.mathdro.id/api).
+
+This COVID-19 tracking website shows the real-time data in the form of charts. Also, we will add filters as per the country.
+
+Features of the website: Easy to use, Attractive UI, Charts speaks more than text, real-time data, and last but not least, it is a responsive website for both desktop & mobile view.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
