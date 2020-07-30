@@ -8,7 +8,7 @@ Features of the website: Easy to use, Attractive UI, Charts speaks more than tex
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Some Screenshots of Projects.
+Some Screenshots of Project.
 
 ![ss1](https://user-images.githubusercontent.com/47775251/88920613-c32c4680-d28a-11ea-9805-a8ee9d112b1c.png)
 
