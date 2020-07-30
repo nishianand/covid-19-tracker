@@ -12,6 +12,10 @@ Some Screenshots of Project.
 
 ![ss1](https://user-images.githubusercontent.com/47775251/88920613-c32c4680-d28a-11ea-9805-a8ee9d112b1c.png)
 
+We can choose any country to view the real-time covid-19 cases.
+
+![ss2](https://user-images.githubusercontent.com/47775251/88921022-6ed59680-d28b-11ea-8011-998c53d526f6.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
